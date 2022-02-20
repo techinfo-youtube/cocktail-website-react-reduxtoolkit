@@ -6,6 +6,6 @@ This project was bootstrapped with [Create React App]).
 
 Please Like subscribe, and follow
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Note!**
 In case any error please comment on video also message me on instagram search techincal_update
 or if you want to change or modify something which is good for this project than ask for contribution for pull request
